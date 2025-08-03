@@ -1,6 +1,6 @@
 # 📚 Web-Edu Frontend Demo
 
-Đây là dự án giao diện frontend cho một website giáo dục trực tuyến, được xây dựng với **React**, **Vite**, và **TailwindCSS**.
+Đây là dự án giao diện frontend cho một website giáo dục trực tuyến, được xây dựng bằng **React**, **Vite**, và **TailwindCSS**. Giao diện được thiết kế hiện đại, trực quan, thân thiện với người dùng và **hỗ trợ responsive trên mọi thiết bị** (PC, tablet, điện thoại).
 
 ## 🚀 Công nghệ sử dụng
 
