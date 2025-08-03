@@ -20,14 +20,14 @@
 
 ## 🖼️ Demo giao diện
 
-Bạn có thể trải nghiệm trực tiếp các giao diện tại trang demo:  
-👉 [Demo URL]([https://your-demo-url.com](https://edu-web-demo-react-uwya.vercel.app/)) 
+Bạn có thể trải nghiệm trực tiếp các giao diện tại trang demo: https://edu-web-demo-react-uwya.vercel.app/
+
 
 ## 📦 Cài đặt & chạy dự án cục bộ
 
 ```bash
 # Bước 1: Clone dự án
-git clone https://github.com/your-username/web-edu-frontend.git
+git clone https://github.com/camtu470/Edu-Web-Demo-React.git
 cd web-edu-frontend
 
 # Bước 2: Cài đặt package
