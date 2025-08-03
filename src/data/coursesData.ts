@@ -53,8 +53,8 @@ export const coursesData = [
     mainImage:
       "https://i.pinimg.com/1200x/3f/08/38/3f0838a9c1214fa6b50a53101626f987.jpg",
     subImages: [
-      "https://i.pinimg.com/1200x/aa/bb/cc/mkt01.jpg",
-      "https://i.pinimg.com/1200x/dd/ee/ff/mkt02.jpg",
+      "https://i.pinimg.com/1200x/3f/08/38/3f0838a9c1214fa6b50a53101626f987.jpg",
+      "https://i.pinimg.com/1200x/3f/08/38/3f0838a9c1214fa6b50a53101626f987.jpg",
     ],
   },
   {
@@ -82,8 +82,8 @@ export const coursesData = [
     mainImage:
       "https://i.pinimg.com/1200x/3f/08/38/3f0838a9c1214fa6b50a53101626f987.jpg",
     subImages: [
-      "https://i.pinimg.com/1200x/aa/bb/cc/uiux01.jpg",
-      "https://i.pinimg.com/1200x/dd/ee/ff/uiux02.jpg",
+      "https://i.pinimg.com/1200x/3f/08/38/3f0838a9c1214fa6b50a53101626f987.jpg",
+      "https://i.pinimg.com/1200x/3f/08/38/3f0838a9c1214fa6b50a53101626f987.jpg",
     ],
   },
   {
@@ -140,8 +140,8 @@ export const coursesData = [
     mainImage:
       "https://i.pinimg.com/1200x/3f/08/38/3f0838a9c1214fa6b50a53101626f987.jpg",
     subImages: [
-      "https://i.pinimg.com/1200x/aa/bb/cc/mkt01.jpg",
-      "https://i.pinimg.com/1200x/dd/ee/ff/mkt02.jpg",
+      "https://i.pinimg.com/1200x/3f/08/38/3f0838a9c1214fa6b50a53101626f987.jpg",
+      "https://i.pinimg.com/1200x/3f/08/38/3f0838a9c1214fa6b50a53101626f987.jpg",
     ],
   },
   {
@@ -169,8 +169,8 @@ export const coursesData = [
     mainImage:
       "https://i.pinimg.com/1200x/3f/08/38/3f0838a9c1214fa6b50a53101626f987.jpg",
     subImages: [
-      "https://i.pinimg.com/1200x/aa/bb/cc/uiux01.jpg",
-      "https://i.pinimg.com/1200x/dd/ee/ff/uiux02.jpg",
+      "https://i.pinimg.com/1200x/3f/08/38/3f0838a9c1214fa6b50a53101626f987.jpg",
+      "https://i.pinimg.com/1200x/3f/08/38/3f0838a9c1214fa6b50a53101626f987.jpg",
     ],
   },
   {
@@ -198,8 +198,8 @@ export const coursesData = [
     mainImage:
       "https://i.pinimg.com/1200x/3f/08/38/3f0838a9c1214fa6b50a53101626f987.jpg",
     subImages: [
-      "https://i.pinimg.com/1200x/aa/bb/cc/uiux01.jpg",
-      "https://i.pinimg.com/1200x/dd/ee/ff/uiux02.jpg",
+      "https://i.pinimg.com/1200x/3f/08/38/3f0838a9c1214fa6b50a53101626f987.jpg",
+      "https://i.pinimg.com/1200x/3f/08/38/3f0838a9c1214fa6b50a53101626f987.jpg",
     ],
   },
 ];

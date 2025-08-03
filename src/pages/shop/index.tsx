@@ -42,7 +42,7 @@ export default function CoursesPage() {
 
       {/* Bộ lọc */}
       <div className="w-11/12 mx-auto flex flex-col gap-6">
-        <div className="w-full bg-[#0BA69D] rounded-3xl flex gap-2 lg:gap-8 p-6 px-10 items-start flex-wrap">
+        <div className="w-full bg-[#0BA69D] rounded-3xl flex gap-2 lg:gap-8 p-6 px-10 flex-wrap lg:flex-none items-center">
           {/* Từ khóa */}
           <FilterBlock label="Tìm theo từ khóa" className="w-full md:w-4/12">
             <input
@@ -95,7 +95,7 @@ export default function CoursesPage() {
           </FilterBlock>
 
           {/* Reset */}
-          <div className="w-full md:w-1/12 mt-2">
+          <div className="w-full lg:w-1/12 mt-2">
             <button
               onClick={resetFilters}
               className="w-full bg-white text-[#0BA69D] font-semibold px-4 py-1 lg:py-3 rounded-xl hover:bg-gray-100 transition"
